@@ -20,10 +20,10 @@ local Humanoid = Character:WaitForChild("Humanoid")
 
 -- WIndow 
 local Window = WindUI:CreateWindow({
-    Title = "My Super Hub",
+    Title = "TUKS - SCRIPT",
     Icon = "door-open", -- lucide icon
-    Author = "by .ftgs and .ftgs",
-    Folder = "MySuperHub",
+    Author = "by g",
+    Folder = "tuks-dev",
 
     -- ↓ This all is Optional. You can remove it.
     Size = UDim2.fromOffset(580, 460),
